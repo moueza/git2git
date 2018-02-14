@@ -7,4 +7,9 @@ The whole subtlety is that Github may have been created(remotes add in Egit) aft
 <li>OR successive commits can be epsilon(1 second, 10 seconds,or else)commit reproducted  </li> 
 <li>OR branch series reproducted. </li>
 <li>OR the true timing can be reflected by a field in commit comment or tag comment<BR></li>
-</ul>
+</ul><BR>
+
+
+
+
+Inspired by git update-ref from https://github.com/nabeken/git2git/blob/master/git2git.sh
